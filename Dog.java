@@ -14,6 +14,6 @@ public class Dog extends Actor
      */
     public void act()
     {
-        turn(1);
+        turn(-1);
     }
 }
